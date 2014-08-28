@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPad.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PieChartLabelsThatAreOutOfThisSlice/PieChartLabelsThatAreOutOfThisSliceViewController.cs">
+    <Files>
+      <File FileName="PieChartLabelsThatAreOutOfThisSlice/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="PieChartLabelsThatAreOutOfThisSlice/PieChartLabelsThatAreOutOfThisSliceViewController.cs" Line="3" Column="3" />
+      <File FileName="../Charts/ShinobiCharts-2.7.0/Xamarin/samples/PieChart/PieChartViewController.cs" Line="32" Column="32" />
+      <File FileName="PieChartLabelsThatAreOutOfThisSlice/test.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
